@@ -1,0 +1,35 @@
+#defaultCanvas0 {
+  position: fixed;
+  z-index: 500;
+/*  border: 2px solid #c3c3c3;
+  border-radius: 13rem;*/
+}
+
+.row-container {
+  display:flex;
+}
+
+.card {
+  margin: 20px;
+  flex: 25%;
+  padding: 0px;
+  border: 1px solid #c3c3c3;
+  background-color: #fafafa;
+  border-radius: 5px;
+}
+
+.brackets {
+}
+
+.title{
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #c3c3c3;
+}
+
+.card-body {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
