@@ -1,1 +1,1 @@
-# Github-Icon-Generator
+# Github Icon Generator
